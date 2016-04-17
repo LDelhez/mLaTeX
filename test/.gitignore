@@ -1,0 +1,9 @@
+# LaTeX
+*.aux
+*.dvi
+*.pdf
+*.fls
+*.fdb_latexmk
+*.log
+
+.tmp/
